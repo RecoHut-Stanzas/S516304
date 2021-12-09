@@ -99,13 +99,21 @@
 │   │   ├── [2.1K]  WideDeep.yaml
 │   │   └── [2.3K]  xDeepFM.yaml
 │   └── [ 136]  README.md
-└── [ 36K]  data
-    └── [ 32K]  tiny_data
-        ├── [9.3K]  test_sample.csv
-        ├── [9.3K]  train_sample.csv
-        └── [9.3K]  valid_sample.csv
+├── [ 36K]  data
+│   └── [ 32K]  tiny_data
+│       ├── [9.3K]  test_sample.csv
+│       ├── [9.3K]  train_sample.csv
+│       └── [9.3K]  valid_sample.csv
+├── [ 78K]  images
+│   ├── [ 56K]  process_flow_extended.svg
+│   └── [ 19K]  process_flow.svg
+├── [ 48K]  nbs
+│   └── [ 44K]  P416760_Comparing_DCN,_DeepFM_and_xDeepFM_in_PyTorch.ipynb
+├── [4.3K]  README.md
+└── [8.7K]  reports
+    └── [4.7K]  S516304_report.ipynb
 
- 348K used in 10 directories, 92 files
+ 488K used in 13 directories, 97 files
 ```
 
 ## Link
